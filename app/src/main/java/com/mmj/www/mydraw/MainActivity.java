@@ -27,5 +27,5 @@ public class MainActivity extends AppCompatActivity {
             currentPaint = (ImageButton)view;
         }
 
-    }
+    }///
 }
